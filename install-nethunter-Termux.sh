@@ -92,7 +92,7 @@ ln -sf "$PREFIX/bin/nh" "$PREFIX/bin/nethunter"
 
 # === AUTO INSTALL METASPLOIT + SET ===
 echo "[*] Entering Kali to install metasploit + SET (this may take a long time)..."
-echo "[*] Please run apt update && apt upgrade && apt install set metasploit-framework
+echo "[*] Please run apt update && apt upgrade && apt install set metasploit-framework"
 nh 
 echo
 echo "[✔] Installation finished!"
